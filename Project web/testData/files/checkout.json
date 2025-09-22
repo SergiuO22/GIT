@@ -1,0 +1,12 @@
+{
+  "invalidUser": {
+    "firstName": "",
+    "lastName": "Smith",
+    "zip": "1234567"
+  },
+  "validUser": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "zip": "90210"
+  }
+}
